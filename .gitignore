@@ -32,4 +32,10 @@
 *.app
 
 # VS Code
-tasks.json
+.vscode/
+
+# CLion
+.idea/
+
+# CMake
+cmake-build-debug/
