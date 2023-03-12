@@ -23,4 +23,4 @@
     - illegal, syntax error.
 
 (g) const int i2 = i, &r = i;
-    - legal, plain pointer, points const variable.
+    - legal, plain pointer, can point const variable.
