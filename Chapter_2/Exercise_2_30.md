@@ -1,4 +1,4 @@
-# Chapter 2 - Exercise 
+# Chapter 2 - Exercise 30
 
 ## Exercise 2.30: For each of the following declarations indicate whether the object being declared has top-level or low-level const.
 
